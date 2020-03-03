@@ -26,7 +26,7 @@ SECRET_KEY = 'ls&_sq$$nt1*9knlm!$niy6-&#_tf11@3(b36#93!1w5vq5gf3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['imahydra.pythonanywhere.com']
 
 
 # Application definition
